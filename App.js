@@ -62,7 +62,7 @@ export default class App extends React.Component {
     return (
       <ScrollView style={styles.container}>
         <View style={styles.gridContainer}>
-          <Image style={styles.logo} source={require("./assets/logo.png")} />
+          <Image style={styles.logo} source={require("./assets/spanish.jpg")} />
           <View style={styles.rowContainer}>
             <TouchableOpacity
               style={[
